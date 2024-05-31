@@ -7,7 +7,7 @@ Develop a text classification model to classify SMS as either spam or non-spam u
 # TASK 2 - Titanic Classification :
 Build a predictive model to determine the likelihood of survival for passengers on the Titanic using data science techniques in Python.
 
-<b> About the Dataset </b>
+<b> About the Dataset </b> <br>
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone on board, resulting in the death of 1502 out of 2224 passengers and crew.
 
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
