@@ -44,22 +44,3 @@ if prediction[0] == 1:
     print(' Hey! It is a Spam SMS..!')
 else:
     print('Dont worry! It is a Non-Spam SMS..!')
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
