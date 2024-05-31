@@ -16,7 +16,5 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
 <b> Objective: </b>
 
-Understand the Dataset & cleanup (if required).
-Build a strong classification model to predict whether the passenger survives or not.
-Also fine-tune the hyperparameters & compare the evaluation metrics of various classification algorithms.
+Build a predictive model to determine the likelihood of survival for passengers on the Titanic using data science techniques in Python.
 link to the Dataset : https://www.kaggle.com/datasets/yasserh/titanic-dataset
